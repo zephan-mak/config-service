@@ -1,2 +1,2 @@
-image: 
-  service:test
+image:
+  server: test
